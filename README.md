@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/arvishdoshi/" target="_blank">
-        <img width="96" height="96" alt="ARVISH DOSHI" src="https://github.com/user-attachments/assets/7e4c018e-7452-405f-9512-b4bb7deaf1fc" />
+        <img width="96" height="96" alt="ARVISH DOSHI" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
     </a>
 </div>
 
