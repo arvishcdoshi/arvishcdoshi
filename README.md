@@ -1,6 +1,6 @@
 > Because what is man without passions? Without his passions, man is a lame runner and a one-armed discus thrower. He is Cicero with his tongue cut out, a sailor without the sea.
 >
-> — Dimitris Liantinis, *Πολυχρόνιο – Στοά και Ρώμη*, 1987
+> - Dimitris Liantinis, *Πολυχρόνιο – Στοά και Ρώμη*, 1987
 
 <br/>
 <div align="center">
